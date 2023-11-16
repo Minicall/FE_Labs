@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .content {
+    width: 1300px;
+    height: 700px;
+    margin: auto;
+  }
+  
+  .first-img {
+    overflow: hidden;
+    float: left;
+    width: 25%;
+    height: 60%;
+  }
+  
+  .upper-text {
+    font-size: 26px;
+    background-color: rgb(133, 189, 241);
+    float: right;
+    width: 75%;
+    height: 60%;
+  }
+  
+  h5 {
+    padding-top: 10px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  }
+  
+  .second-img {
+    overflow: hidden;
+    width: 100%;
+    height: 20%;
+  }
+  
+  .lower-text {
+    font-size: 24px;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(44, 55, 119);
+  }
